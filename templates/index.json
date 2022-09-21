@@ -1,0 +1,310 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/28654863_7_1.png",
+        "mobile_image": "shopify:\/\/shop_images\/bg.png",
+        "bg_position": "center-center",
+        "height": "screen-height-three-quarters",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "title": "Vision Embroidery",
+        "heading_size": 9,
+        "description": "Online only while our brick & mortar shop is closed. Save 20% with the code “STAYSAFE”",
+        "text_size": 4,
+        "flex_align": "align--middle-center",
+        "bg_color": "",
+        "color": "#ffffff",
+        "link_text": "Buy Now",
+        "link": "",
+        "button_color": "btn--gradient",
+        "button_style": "hero__btn btn btn--large caps"
+      }
+    },
+    "16631375949a192e7b": {
+      "type": "section-collection-carousel",
+      "settings": {
+        "heading": "Trending Style",
+        "description": "",
+        "image": "shopify:\/\/shop_images\/123.png",
+        "text_alignment": "left",
+        "link_text": "Shop Now",
+        "link_url": "",
+        "button_color": "btn--white",
+        "button_style": "caps--large",
+        "featured_collection": "headwear",
+        "bg_color": "#ffe04c",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "tabs": {
+      "type": "section-tab-collections",
+      "blocks": {
+        "tabs-0": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "polo",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "tabs-1": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "headwear",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "1ecf4e4c-4e3e-49d0-8d38-94ef020686ac": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "t-shirts",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        },
+        "c6054838-9a23-4220-8752-193bdd2523d4": {
+          "type": "collection",
+          "settings": {
+            "title": "All",
+            "featured_collection": "knits-and-layering",
+            "show_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "hero__btn btn btn--large btn--outline caps"
+          }
+        }
+      },
+      "block_order": [
+        "tabs-0",
+        "tabs-1",
+        "1ecf4e4c-4e3e-49d0-8d38-94ef020686ac",
+        "c6054838-9a23-4220-8752-193bdd2523d4"
+      ],
+      "settings": {
+        "title": "Featured Collection",
+        "bg_color": "",
+        "color": "",
+        "layout": "grid",
+        "products_to_show": 8,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "lookbook": {
+      "type": "section-look",
+      "disabled": true,
+      "blocks": {
+        "lookbook-0": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 18,
+            "position_y": 50
+          }
+        },
+        "lookbook-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "position_x": 41,
+            "position_y": 7
+          }
+        }
+      },
+      "block_order": [
+        "lookbook-0",
+        "lookbook-1"
+      ],
+      "settings": {
+        "bg_position": "left-center",
+        "title": "Shop the look",
+        "bg_color": "",
+        "color": "",
+        "dot_color": "#ffffff",
+        "dot_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16632455795e83849b": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1663245579c1fb82e8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/young-man-with-hands-his-pocket-looking-away_1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "For Men",
+            "heading_size": 7,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "text_size": 3,
+            "flex_align": "align--middle-right",
+            "bg_color": "#8390fa",
+            "color": "#ffffff",
+            "contrast": true,
+            "link_text": "Shop Now",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "caps--large"
+          }
+        },
+        "17d0fb4d-c7ff-4342-bc1c-9cb10700b9dd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/content-confident-young-woman-jacket-talking-phone_1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "For Women",
+            "heading_size": 7,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "text_size": 3,
+            "flex_align": "align--middle-left",
+            "bg_color": "#d6daff",
+            "color": "#ffffff",
+            "contrast": false,
+            "link_text": "Shop Now",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "caps--large"
+          }
+        }
+      },
+      "block_order": [
+        "1663245579c1fb82e8-0",
+        "17d0fb4d-c7ff-4342-bc1c-9cb10700b9dd"
+      ],
+      "settings": {
+        "height": "image-height",
+        "width": "wrapper--full",
+        "padding": false,
+        "borders": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1663138580132377a1": {
+      "type": "section-product",
+      "blocks": {
+        "16631385805859b6fd-0": {
+          "type": "price_and_title",
+          "settings": {
+            "subheading_option": "none",
+            "show_rating": true,
+            "enable_star_rating": true,
+            "show_rating_count": false
+          }
+        },
+        "16631385805859b6fd-2": {
+          "type": "tab_richtext",
+          "settings": {
+            "show_read_more": true,
+            "style": "tabs",
+            "title_1": "",
+            "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "title_2": "",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": ""
+          }
+        },
+        "16631385805859b6fd-1": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": false,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "subscriptions_enable_selectors": true
+          }
+        }
+      },
+      "block_order": [
+        "16631385805859b6fd-0",
+        "16631385805859b6fd-2",
+        "16631385805859b6fd-1"
+      ],
+      "settings": {
+        "title": "Best Seller",
+        "home_product": "adult-3-in-1-jacket",
+        "image_layout": "thumbnails-left",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "color": "",
+        "border_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "newsletter": {
+      "type": "section-newsletter",
+      "settings": {
+        "title": "Subscribes Our Newsletter",
+        "richtext": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+        "enable_name": false,
+        "flex_align": "align--middle-center",
+        "button_color": "btn--neutral",
+        "height": "image-height",
+        "width": "default",
+        "bg_color": "#fff6a9",
+        "color": "",
+        "bg_image": "shopify:\/\/shop_images\/newsletter_35f8e075-bd83-4049-9f69-a954e49d6b74.png",
+        "bg_position": "center-center",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "16631375949a192e7b",
+    "tabs",
+    "lookbook",
+    "16632455795e83849b",
+    "1663138580132377a1",
+    "newsletter"
+  ]
+}
